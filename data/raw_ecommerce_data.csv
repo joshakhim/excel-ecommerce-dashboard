@@ -1,0 +1,201 @@
+customer_name,product,category,country,price,quantity,order_date
+Chris Paul,Keyboard,Electronics,Canada,,6,2023/08/21
+Chris Paul,Headphones,Fashion,United States,945.13,,"Aug 12, 2023"
+Ella Stone,Camera,Fashion,Canada,,,10-03-2023
+Aisha Musa,Laptop,Accessories,Canada,,,"May 20, 2023"
+Alex King,Keyboard,Electronics,United Kingdom,,,02-26-2024
+John Doe,Backpack,Fashion,Canada,,1,2022-09-19
+Ella Stone,Speaker,Fashion,UK,400.99,,"Mar 05, 2024"
+Chris Paul,Laptop,Electronics,United Kingdom,,9,07-31-2022
+Ella Stone,Laptop,Fashion,Canada,704.07,,2023-08-19
+Ella Stone,Sneakers,Electronics,Canada,111.65,10,29/04/2023
+Liam Chen,Sneakers,Electronics,United Kingdom,,,01-25-2024
+Ella Stone,Laptop,Electronics,Canada,,,23/04/2022
+Aisha Musa,Watch,Fashion,United States,,5,2022/06/16
+Fatima Bello,Laptop,Electronics,United States,795.74,,28/03/2023
+John Doe,Smartphone,Fashion,Canada,,,12/02/2022
+Chris Paul,Tablet,Accessories,UK,,4,2024-02-17
+Chris Paul,Tablet,Fashion,UK,1518.48,,2022/12/28
+Chris Paul,Tablet,Electronics,United Kingdom,,4,2023/10/31
+Chris Paul,Headphones,Electronics,United States,751.49,,2023-01-24
+Aisha Musa,Sneakers,Electronics,USA,,9,2022-04-05
+David Brown,Smartphone,Electronics,United Kingdom,,4,12-22-2023
+Alex King,Laptop,Electronics,UK,,9,2022/07/16
+Fatima Bello,Keyboard,Electronics,United States,,,2023-11-21
+David Brown,Laptop,Fashion,Nigeria,,,"Nov 04, 2023"
+Jane Smith,Tablet,Accessories,UK,187.29,,09-28-2022
+Ella Stone,Sneakers,Electronics,USA,867.78,6,"Feb 06, 2024"
+David Brown,Laptop,Electronics,United Kingdom,,3,02-13-2022
+David Brown,Sneakers,Electronics,United Kingdom,,,28/06/2022
+John Doe,Sneakers,Electronics,United States,304.79,,2023/05/14
+Liam Chen,Tablet,Electronics,United States,298.59,7,07-28-2023
+Liam Chen,Smartphone,Electronics,Canada,1820.75,,"Feb 26, 2024"
+Ella Stone,Backpack,Fashion,Nigeria,,9,09-02-2023
+Jane Smith,Keyboard,Accessories,UK,,,2024/02/06
+Jane Smith,Sneakers,Accessories,United Kingdom,,,15/11/2022
+Alex King,Speaker,Fashion,Canada,,1,"May 23, 2023"
+Ella Stone,Backpack,Fashion,United Kingdom,,,2023/07/07
+Liam Chen,Laptop,Accessories,United States,1652.82,1,2023-12-10
+Alex King,Backpack,Accessories,United States,,1,27/07/2023
+David Brown,Sneakers,Electronics,Nigeria,,,"Apr 04, 2023"
+Ella Stone,Tablet,Accessories,USA,1637.4,,2023/02/20
+David Brown,Speaker,Fashion,United Kingdom,1335.95,,28/08/2022
+Chris Paul,Watch,Electronics,Canada,,2,"Jun 18, 2023"
+Maria Lopez,Headphones,Accessories,USA,,,10-20-2023
+Fatima Bello,Laptop,Accessories,Canada,,,"Dec 22, 2023"
+Ella Stone,Laptop,Electronics,Nigeria,,5,2023/03/16
+Aisha Musa,Smartphone,Accessories,USA,1236.97,,06/06/2023
+Jane Smith,Keyboard,Accessories,United Kingdom,653,,31/07/2023
+Aisha Musa,Sneakers,Accessories,United States,1040.98,4,"Oct 10, 2022"
+Aisha Musa,Smartphone,Electronics,United Kingdom,,,2022-06-26
+John Doe,Laptop,Fashion,UK,,,"Jun 11, 2022"
+Fatima Bello,Sneakers,Accessories,Nigeria,726.15,10,02/06/2022
+Liam Chen,Keyboard,Electronics,Canada,,,07-13-2023
+Liam Chen,Keyboard,Accessories,United States,,,06-23-2023
+David Brown,Sneakers,Fashion,Nigeria,,,2022/11/07
+Maria Lopez,Headphones,Fashion,USA,1122.31,,2023/04/03
+David Brown,Smartphone,Fashion,Nigeria,,6,10/08/2022
+John Doe,Keyboard,Fashion,Canada,614.45,,08-23-2022
+Maria Lopez,Camera,Fashion,USA,,,04/02/2024
+Jane Smith,Tablet,Electronics,UK,275.64,,2023-01-09
+Liam Chen,Keyboard,Accessories,United States,,10,2024-01-10
+John Doe,Sneakers,Electronics,United Kingdom,,,02-04-2022
+David Brown,Keyboard,Accessories,Nigeria,,,2022-04-14
+Aisha Musa,Keyboard,Fashion,UK,,,27/12/2022
+Jane Smith,Keyboard,Electronics,Canada,,,12-19-2022
+Aisha Musa,Keyboard,Electronics,Nigeria,1979.39,8,2022-03-26
+John Doe,Smartphone,Accessories,UK,,7,15/03/2022
+Jane Smith,Speaker,Electronics,USA,,,2023-09-12
+Aisha Musa,Keyboard,Electronics,Canada,,10,2022-10-22
+Maria Lopez,Sneakers,Electronics,Canada,,4,2023/06/09
+David Brown,Keyboard,Electronics,United States,,8,"Aug 15, 2023"
+Jane Smith,Keyboard,Electronics,Canada,,,2022/12/18
+Ella Stone,Sneakers,Accessories,USA,,,2023-03-08
+John Doe,Sneakers,Accessories,Nigeria,,,18/04/2022
+Ella Stone,Smartphone,Fashion,USA,,2,20/04/2023
+Fatima Bello,Keyboard,Electronics,UK,414.27,,"Apr 11, 2023"
+Liam Chen,Headphones,Electronics,USA,,,"May 24, 2022"
+Ella Stone,Backpack,Electronics,USA,,,04/01/2023
+Aisha Musa,Headphones,Fashion,United Kingdom,,,07/01/2022
+Aisha Musa,Watch,Fashion,USA,,,02-14-2024
+Alex King,Sneakers,Electronics,Canada,599.05,5,"Apr 27, 2022"
+Maria Lopez,Sneakers,Accessories,USA,617.66,,2022/03/12
+Chris Paul,Watch,Accessories,Canada,,,"Sep 08, 2023"
+Chris Paul,Smartphone,Fashion,Nigeria,,6,2022-01-04
+Ella Stone,Watch,Electronics,UK,,1,13/12/2022
+Ella Stone,Watch,Accessories,Nigeria,,,11-20-2023
+Maria Lopez,Watch,Accessories,USA,968.33,7,01-11-2023
+Maria Lopez,Keyboard,Electronics,Nigeria,,,13/06/2023
+Ella Stone,Smartphone,Electronics,United Kingdom,1813.53,,2022-09-09
+Chris Paul,Smartphone,Fashion,UK,,5,23/02/2022
+David Brown,Backpack,Accessories,USA,,,2022/03/26
+Chris Paul,Speaker,Accessories,Canada,680.28,,07-20-2022
+Alex King,Tablet,Fashion,USA,,,19/11/2023
+Maria Lopez,Headphones,Electronics,UK,,,06-13-2022
+David Brown,Smartphone,Accessories,UK,,,2022-03-12
+David Brown,Laptop,Accessories,UK,,7,"Dec 02, 2022"
+Chris Paul,Keyboard,Accessories,United States,,,22/04/2022
+Chris Paul,Sneakers,Electronics,United Kingdom,843.89,,2022-05-13
+Fatima Bello,Headphones,Fashion,UK,,,31/03/2023
+Liam Chen,Headphones,Accessories,United States,,,07-01-2022
+Alex King,Sneakers,Electronics,United States,,,"Dec 04, 2023"
+David Brown,Camera,Accessories,United States,,,2022-07-10
+John Doe,Smartphone,Electronics,Canada,,,04-12-2023
+Alex King,Keyboard,Fashion,UK,,,03-17-2022
+John Doe,Speaker,Electronics,United States,,10,2022-02-02
+David Brown,Laptop,Electronics,Canada,1564.24,,28/12/2022
+Liam Chen,Camera,Electronics,Nigeria,,,12/09/2022
+Chris Paul,Tablet,Electronics,Nigeria,376.18,,"Mar 01, 2023"
+David Brown,Speaker,Accessories,United States,,,03/04/2022
+Maria Lopez,Laptop,Accessories,Nigeria,,,06/07/2023
+Liam Chen,Sneakers,Fashion,USA,,2,26/08/2022
+Maria Lopez,Tablet,Fashion,UK,,,2023-10-29
+Ella Stone,Camera,Electronics,United States,,3,2022/01/28
+Fatima Bello,Speaker,Electronics,Canada,,,2022/11/09
+Ella Stone,Tablet,Fashion,United Kingdom,,,2022-01-09
+Alex King,Watch,Accessories,United Kingdom,,3,"Jul 15, 2022"
+Ella Stone,Headphones,Accessories,USA,,,07-31-2023
+Maria Lopez,Laptop,Accessories,USA,,,2022-06-05
+Aisha Musa,Watch,Fashion,United States,,9,08-16-2023
+David Brown,Sneakers,Accessories,Canada,,,2022-02-22
+John Doe,Backpack,Fashion,UK,,7,"Jul 11, 2023"
+Ella Stone,Speaker,Fashion,Nigeria,444.73,7,"Feb 07, 2023"
+John Doe,Headphones,Fashion,United States,,,2023/07/12
+Chris Paul,Keyboard,Fashion,Nigeria,,9,03-07-2024
+Liam Chen,Camera,Fashion,United States,,5,"Feb 16, 2022"
+Maria Lopez,Watch,Accessories,United Kingdom,,,2023-01-30
+Ella Stone,Watch,Accessories,Canada,1122.68,2,2022/11/08
+Jane Smith,Sneakers,Accessories,USA,,6,2023-02-22
+David Brown,Tablet,Electronics,United Kingdom,,,"Nov 03, 2022"
+John Doe,Keyboard,Electronics,United States,1871.32,,"Mar 08, 2023"
+Fatima Bello,Speaker,Electronics,Canada,,,15/02/2022
+Aisha Musa,Tablet,Accessories,USA,,,"Jan 22, 2023"
+Fatima Bello,Headphones,Fashion,UK,,,11/09/2023
+Alex King,Speaker,Fashion,USA,,3,"Dec 24, 2022"
+Jane Smith,Smartphone,Accessories,UK,,,02-02-2023
+Ella Stone,Keyboard,Electronics,United States,,,06-20-2022
+Liam Chen,Tablet,Fashion,Nigeria,1547.87,,04/02/2022
+David Brown,Headphones,Fashion,United Kingdom,,2,25/07/2022
+Jane Smith,Speaker,Accessories,Nigeria,,5,"Aug 29, 2023"
+Aisha Musa,Laptop,Accessories,UK,,,2023-01-24
+Aisha Musa,Tablet,Accessories,United Kingdom,,,05-18-2023
+David Brown,Sneakers,Accessories,Canada,1596.35,,11-15-2023
+Aisha Musa,Headphones,Electronics,United Kingdom,1357.32,5,2022/05/05
+Fatima Bello,Tablet,Accessories,Canada,1987.97,10,04-28-2023
+Chris Paul,Speaker,Accessories,USA,,10,2023/08/08
+Alex King,Watch,Accessories,United Kingdom,,,"Dec 20, 2022"
+Aisha Musa,Sneakers,Electronics,Canada,,2,2023-10-07
+Liam Chen,Sneakers,Accessories,United Kingdom,463.77,,03-24-2022
+Chris Paul,Keyboard,Accessories,Canada,,1,2022-12-27
+Chris Paul,Keyboard,Electronics,USA,,,03/12/2023
+Alex King,Smartphone,Accessories,United Kingdom,,2,2023-12-15
+Jane Smith,Smartphone,Electronics,Canada,1199.66,,28/11/2022
+Jane Smith,Sneakers,Electronics,UK,1894.95,7,07-07-2022
+David Brown,Headphones,Electronics,UK,,,2022-08-15
+David Brown,Watch,Fashion,USA,,,"Jun 04, 2022"
+Aisha Musa,Watch,Fashion,United States,432.09,,2022/10/01
+Liam Chen,Keyboard,Accessories,United States,,,11-15-2022
+Maria Lopez,Watch,Fashion,Canada,,,28/01/2022
+Fatima Bello,Watch,Accessories,USA,69.35,8,2022/04/19
+Chris Paul,Headphones,Fashion,USA,,3,"Sep 30, 2022"
+Chris Paul,Keyboard,Electronics,Nigeria,1529.07,,2023-12-03
+Jane Smith,Tablet,Fashion,United States,,10,2023/09/05
+Alex King,Tablet,Accessories,Nigeria,,,2023-02-02
+Jane Smith,Keyboard,Fashion,United States,,4,12-26-2022
+Liam Chen,Laptop,Fashion,United Kingdom,,,2022-08-27
+David Brown,Laptop,Fashion,Nigeria,,6,01/09/2022
+Jane Smith,Backpack,Accessories,United States,,,2024-01-11
+Alex King,Headphones,Fashion,United States,918.47,,2022/08/19
+Aisha Musa,Watch,Fashion,Canada,1127.42,,06-10-2023
+Chris Paul,Watch,Electronics,United Kingdom,,9,2022/07/06
+Alex King,Laptop,Accessories,UK,,,17/12/2022
+Maria Lopez,Smartphone,Fashion,UK,,7,"Jul 18, 2023"
+Chris Paul,Smartphone,Fashion,UK,,9,09/01/2024
+Liam Chen,Laptop,Electronics,USA,416.94,,2022-04-09
+David Brown,Keyboard,Accessories,Canada,,,2022-12-20
+Aisha Musa,Watch,Accessories,Canada,,1,11-01-2023
+Fatima Bello,Headphones,Accessories,United Kingdom,,4,11-09-2023
+Alex King,Watch,Accessories,USA,,,"Nov 02, 2022"
+Aisha Musa,Tablet,Accessories,Nigeria,966.79,,28/09/2022
+Aisha Musa,Camera,Fashion,USA,,,2023-06-22
+Fatima Bello,Speaker,Electronics,USA,1478.16,3,11-17-2023
+Maria Lopez,Headphones,Fashion,USA,1980.31,1,2022/12/28
+Alex King,Camera,Accessories,United Kingdom,,,2023/06/16
+Chris Paul,Laptop,Accessories,Canada,1831.78,,2023/05/02
+Maria Lopez,Tablet,Fashion,United Kingdom,1211.67,,2022-11-15
+Aisha Musa,Tablet,Electronics,United Kingdom,1656.16,,"Jan 21, 2024"
+Jane Smith,Laptop,Fashion,United Kingdom,,,2023-12-01
+David Brown,Watch,Fashion,Nigeria,,,2023-03-02
+Aisha Musa,Watch,Accessories,Canada,502.15,6,15/01/2022
+Ella Stone,Headphones,Electronics,United Kingdom,641.9,,30/04/2023
+Chris Paul,Smartphone,Accessories,United States,328.81,8,01-18-2022
+Alex King,Backpack,Electronics,UK,,7,14/01/2024
+Fatima Bello,Headphones,Electronics,United Kingdom,557.39,,02-10-2023
+Fatima Bello,Backpack,Fashion,UK,711.2,,"Jul 27, 2023"
+Fatima Bello,Sneakers,Fashion,United Kingdom,,,09-25-2022
+John Doe,Watch,Electronics,Canada,,1,2022-05-20
+Maria Lopez,Camera,Fashion,United States,,,03-23-2022
+John Doe,Keyboard,Accessories,Nigeria,,,2022/03/08
+Liam Chen,Backpack,Accessories,United States,1407.22,,17/09/2022
+Liam Chen,Backpack,Electronics,United Kingdom,,,"Oct 07, 2023"
+Aisha Musa,Laptop,Fashion,Nigeria,1364.66,,03-07-2023
