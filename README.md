@@ -39,4 +39,4 @@ This project focuses on cleaning, analyzing, and visualizing e-commerce sales da
 
 ## Dashboard Preview
 
-(Add dashboard image here)
+Image/Annotation 2026-05-14 130637.png
