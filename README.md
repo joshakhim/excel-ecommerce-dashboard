@@ -38,5 +38,5 @@ This project focuses on cleaning, analyzing, and visualizing e-commerce sales da
 * `images/` → dashboard screenshots
 
 ## Dashboard Preview
-
-Image/Annotation 2026-05-14 130637.png
+[
+Image/Annotation 2026-05-14 130637.png](https://github.com/joshakhim/excel-ecommerce-dashboard/blob/main/Image/Annotation%202026-05-14%20130637.png)
